@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://brilliantic.github.io/My_Portfolio/'
+url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
@@ -15,10 +15,11 @@ site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, portfolio, Romanenko, Andrii, Frontend, HTML, CSS, JavaScript
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: https://raw.githubusercontent.com/brilliantic/My_Portfolio/master/assets/images/favicon.ico
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://lh3.googleusercontent.com/pw/AIL4fc8podUmLtZSW9WjQp6DMK1FFztvO2s7RA9QlmXs0bGbJ93d_16-F7d5SEHDbsbls5cUXzAjBdYlRiJsbgXZbj0nSXjeLNwGAVWcZ61x44CDH2khUeDQjyQ0XLAReP_1awxuGOGgLHLLxzB-kpKnyPhpTsASHakhOPMHcVW05Qf1ERgiRAnhLu71FihAH-NVPs2SOte3WCpGUEzHtWgnvGOWt4wgUIsC1wpaCb_iOp_lg9tckXk6LI7C8sxgRaiSWELpWy7bIaBA5_ajKDB66VJ0z2eM2ZCHyHdE1-Je85PVHixvH-y15kfrngBMvF3XwTvGytBjW7j1UZ14mGIuPuarw7qkbZbqx0aX7gfw6G1MYtP_4lTSEW7unI_SsikKrRUSsgTRJqvYlBcUSmqiDHiZ6uQOXN5Ll1IwOCskew6XNIcHhJ6G9_c_cCd8suUUmbM8nhdBFH_ou2qpgETg0RTNUPlDlOlM8qZve5Vpxt375zVbCv5TE1Y3xSZFczF8pUnhliW432x-STH6ttXpjLH6VerZYpD8Njz3xdmtRHPhnKh47p-d-z5GURRi9ZloA2gNjAd7PT2ZDPY-OUFhHwqZmKOsNo60gLvOOfSojlWMEtgRzfzgZvGUquvlfrDcgfWYmWHz3d1V3XnuuMN2lZFrAXymOFickL8uuuPR-2xaP3yfWPQb50wkO-tBOVvbRyNb4Ld35jORTKKGFxF4dDO_t6aD_itlrVt67vAk9MXUmzpU5h27mBu7T6BsqYNH-ChitcG1dIUS1Ua-ulMbSpjAwdU1Eozq5hllGwARSeyATTlqmuvGrssGdhTlZliD7y6kb3Pc2y8biTUMXux5A7OrbNJFrUb3qoqlTR84CJIe_W-HhVyF8ZpuyB7B-MqyiP4o1spLiAiHcpNebZlu2O2oxphpbcuo69XEpNRCg1j6VBtrNDavuOlIc5nnGg=w972-h548-s-no?authuser=0
+#https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
