@@ -1,6 +1,6 @@
 - name: CICLO
   image: https://github.com/brilliantic/My_Portfolio/blob/master/assets/images/preview_CICLO.png?raw=true
-  link: https://github.com/brilliantic/Portfolio/blob/main/img_for_portfolio/preview_CICLO.png?raw=true
+  link: https://brilliantic.github.io/CICLO/
   description: Professional landing page with rubber adaptation for devices of any size, on-screen scrolling and light animation.
 - name: Second Project
   link:
