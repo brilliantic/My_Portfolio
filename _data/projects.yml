@@ -1,11 +1,11 @@
 - name: CICLO
   image: https://github.com/brilliantic/My_Portfolio/blob/master/assets/images/preview_CICLO.png?raw=true
   link: https://brilliantic.github.io/CICLO/
-  description: Tools - HTML, SCSS, GULP. Rubber adaptation, easy animation.
+  description: Tools - HTML, SCSS, GULP. Responsive adaptation, easy animation.
 - name: HomeServices
   link: https://brilliantic.github.io/HomeServices/dist/index.html
   image: https://github.com/brilliantic/My_Portfolio/blob/master/assets/images/HomeServices.png?raw=true
-  description: Tools - HTML, SCSS, GULP. Rubber page adaptation, burger menu. The layout is of medium complexity.
+  description: Tools - HTML, SCSS, GULP. Responsive adaptation , burger menu. Medium complexity.
 - name: Third Project
   link:
   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
@@ -17,4 +17,4 @@
 - name: Sushi
   link: https://brilliantic.github.io/sushi-im/
   image: https://github.com/brilliantic/My_Portfolio/blob/master/assets/images/Sushi_site.png?raw=true
-  description: Tools - Bootstrap, SCSS, JS. Adaptation, logical work of the cart.
+  description: Tools - Bootstrap, SCSS, JS. Bootstrap adaptation, logical work of the cart.
